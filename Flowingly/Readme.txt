@@ -13,6 +13,4 @@ Method type = "POST"
 
 github repository url:
 https://github.com/ayapadas/Flowingly.git
-22233334444
-5
-local branch0
+1
